@@ -15,6 +15,12 @@ The data source is a PostgreSQL database imported from the Northwind SQL script.
 2. Total Sales by Customer Country
 3. Top 10 Customers by Total Sales
 
+## Interactivity
+The dashboard supports interactive filtering.
+Selecting a value in one visual automatically updates the other visuals,
+allowing dynamic data exploration.
+
+
 ## Measure Used
 Total Sales is calculated using the formula:
 Unit Price * Quantity.
